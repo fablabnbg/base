@@ -1216,8 +1216,8 @@ die Bibliothek &lt;u&gt;e-symbole.lbr&lt;/u&gt;, und starten Sie das User-Langua
 <text x="251.46" y="146.05" size="1.778" layer="97">Werkstatt - Ausleger</text>
 <text x="251.46" y="142.24" size="1.778" layer="97">Werkstatt - Mitte</text>
 <text x="251.46" y="138.43" size="1.778" layer="97">Werkstatt - Fenster</text>
-<text x="251.46" y="132.08" size="1.778" layer="97">(Elektro - Drehstrom)</text>
-<text x="251.46" y="128.27" size="1.778" layer="97">(Elektro -)</text>
+<text x="251.46" y="132.08" size="1.778" layer="97">Elektro - Drehstrom</text>
+<text x="251.46" y="128.27" size="1.778" layer="97">Elektro - Brüstungskanal</text>
 <text x="251.46" y="120.65" size="1.778" layer="97">(Elektro -)</text>
 <text x="251.46" y="124.46" size="1.778" layer="97">(Elektro -)</text>
 <text x="251.46" y="106.68" size="1.778" layer="97">Klingel, Notbeleuchtung</text>
