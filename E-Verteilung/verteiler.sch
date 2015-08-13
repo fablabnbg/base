@@ -1236,6 +1236,7 @@ die Bibliothek &lt;u&gt;e-symbole.lbr&lt;/u&gt;, und starten Sie das User-Langua
 <text x="241.3" y="113.03" size="1.778" layer="97">F2.22</text>
 <text x="251.46" y="116.84" size="1.778" layer="97">Küche</text>
 <text x="251.46" y="113.03" size="1.778" layer="97">Durchlauferhitzer</text>
+<text x="63.5" y="5.08" size="1.778" layer="97" align="bottom-right">SA IX</text>
 </plain>
 <instances>
 <instance part="RAHMEN1" gate="G$1" x="0" y="0"/>
